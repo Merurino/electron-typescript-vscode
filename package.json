@@ -18,9 +18,9 @@
   "author": "Damien Guard",
   "license": "MIT",
   "dependencies": {
-    "electron": "^1.6.11"
+    "electron": "^5.0.2"
   },
   "devDependencies": {
-    "typescript": "^2.4.2"
+    "typescript": "^3.5.1"
   }
 }
